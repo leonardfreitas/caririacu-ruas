@@ -1,0 +1,6 @@
+POST http://localhost:3000/api/streets
+Content-Type: application/json
+
+{
+  "name": "Carlos Morais 2"
+}

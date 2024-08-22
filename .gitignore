@@ -1,0 +1,15 @@
+node_modules
+.vscode
+.idea
+tmp/*
+coverage
+.nyc_output
+.env
+!tmp/.gitkeep
+dist
+ormconfig.json
+tmp
+*.zip
+.DS_Store
+release.zip
+.history
